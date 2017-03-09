@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1442881713 source:c:\users\administrador\desktop\tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+	"circulo.h"
+
+1443490151 source:c:\users\administrador\desktop\tad\circulo.c
+	<stdlib.h>
+	"ponto.h"
+	"circulo.h"
+
+1442150190 c:\users\administrador\desktop\tad\ponto.h
+
+1442149368 c:\users\administrador\desktop\tad\circulo.h
+
+1442150190 source:c:\users\administrador\desktop\tad\ponto.c
+	<stdlib.h>
+	"ponto.h"
+
+1443490151 source:c:\users\administrador\desktop\semestre_2015.2\estrutura_de_dados\tad\circulo.c
+	<stdlib.h>
+	"ponto.h"
+	"circulo.h"
+
+1442150190 c:\users\administrador\desktop\semestre_2015.2\estrutura_de_dados\tad\ponto.h
+
+1442149368 c:\users\administrador\desktop\semestre_2015.2\estrutura_de_dados\tad\circulo.h
+
+1442881713 source:c:\users\administrador\desktop\semestre_2015.2\estrutura_de_dados\tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+	"circulo.h"
+
+1442150190 source:c:\users\administrador\desktop\semestre_2015.2\estrutura_de_dados\tad\ponto.c
+	<stdlib.h>
+	"ponto.h"
+
+1443490151 source:h:\codigos_pratica\tad\circulo.c
+	<stdlib.h>
+	"ponto.h"
+	"circulo.h"
+
+1442150190 h:\codigos_pratica\tad\ponto.h
+
+1442149368 h:\codigos_pratica\tad\circulo.h
+
+1442881713 source:h:\codigos_pratica\tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+	"circulo.h"
+
+1442150190 source:h:\codigos_pratica\tad\ponto.c
+	<stdlib.h>
+	"ponto.h"
+
+1443486551 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_1_tad\circulo.c
+	<stdlib.h>
+	"ponto.h"
+	"circulo.h"
+
+1442146590 c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_1_tad\ponto.h
+
+1442145768 c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_1_tad\circulo.h
+
+1449077359 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_1_tad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+	"circulo.h"
+
+1442146590 source:c:\users\administrador.000\desktop\ufc_geral\tpe_codigos_pratica\codigos_pratica_estrutura_de_dados\pratica_1_tad\ponto.c
+	<stdlib.h>
+	"ponto.h"
+
